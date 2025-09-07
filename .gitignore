@@ -1,1 +1,20 @@
 __pycache__/
+*.py[cod]
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Gitpod or others
+.gitpod.yml
+
